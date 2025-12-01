@@ -1,4 +1,4 @@
-site_name: A10 ADC Demo Container
+site_name: A10 Demo Container Web App
 
 nav:
   - Home: index.md
