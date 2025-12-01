@@ -1,5 +1,5 @@
-A10 ADC Demo Container
-----------------------
+A10 Demo Container Web App
+--------------------------
 
 A lightweight A10 Networks demo container running Apache 2 + PHP 8.2.
 Shows live request & header info on an A10-branded diagnostics page—perfect for validating ADC behavior, VIPs, X-Forwarded-For, host headers, and now HTTPS/TLS details.
@@ -22,6 +22,11 @@ Features
 ✅ Rotating slideshow with A10-themed images
 
 ✅ Ready for labs, demos, and cloud
+
+-----------------
+Where to Download
+-----------------
+The A10 Demo Container Web App can be downloaded from Docker Hub by following the link: https://hub.docker.com/repository/docker/gwolfis/a10-aadc-demo/general
 
 -----------
 Quick Start
