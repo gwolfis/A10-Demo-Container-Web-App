@@ -21,7 +21,7 @@ Features
 
 ✅ Ready for labs, demos, and cloud
 
-![screenshot](images/A10-Demo-Container-Web-App.png){width="60%"}
+![screenshot](images/A10-Demo-Container-Web-App.png){width="60%" .center-image}
 
 -----------------
 Where to Download?

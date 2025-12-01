@@ -5,3 +5,6 @@ nav:
 
 markdown_extensions:
   - attr_list
+
+extra_css:
+  - styles.css
