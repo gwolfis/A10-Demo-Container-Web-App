@@ -31,8 +31,8 @@ Run it directly from Docker Hub:
 ```bash
 docker run -d \
   --restart unless-stopped \
-  -p 8080:80 \
-  -p 8443:443 \
+  -p 80:80 \
+  -p 443:443 \
   -e BG_COLOR="#004A9F" \
   --name a10-aadc-demo \
   gwolfis/a10-aadc-demo:latest
@@ -40,9 +40,9 @@ docker run -d \
 
 Open:
 
-* HTTP: http://localhost:8080
+* HTTP: http://localhost
 
-* HTTPS: https://localhost:8443 (self-signed → proceed in browser or use curl -k)
+* HTTPS: https://localhost (self-signed → proceed in browser or use curl -k)
 
 --------------------
 HTTPS / Certificates
