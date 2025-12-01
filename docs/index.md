@@ -21,7 +21,7 @@ Features
 
 ✅ Ready for labs, demos, and cloud
 
-<img src="images/A10-Demo-Container-Web-App.png" alt="Web App Screenshot" height="200" width="200"
+![screenshot](images/A10-Demo-Container-Web-App.png){width="60%"}
 
 -----------------
 Where to Download?

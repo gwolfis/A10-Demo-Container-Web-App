@@ -2,3 +2,6 @@ site_name: A10 ADC Demo Container
 
 nav:
   - Home: index.md
+
+markdown_extensions:
+  - attr_list
