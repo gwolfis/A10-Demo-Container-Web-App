@@ -21,6 +21,9 @@ Features
 
 ✅ Ready for labs, demos, and cloud
 
+
+![screenshot](docs/images/A10-Demo-Container-Web-App.png){width="60%"}
+
 -----------------
 Where to Download?
 -----------------
