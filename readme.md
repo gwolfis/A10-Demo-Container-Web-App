@@ -1,6 +1,6 @@
 # A10 Demo Container Web App
 A lightweight A10 Networks demo container running Apache 2 + PHP 8.2.
-Shows live request & header info on an A10-branded diagnostics page—perfect for validating ADC behavior, VIPs, X-Forwarded-For, host headers, and now HTTPS/TLS details.
+Shows live request & header info on an A10 branded diagnostics page, perfect for validating ADC behavior, VIPs, X-Forwarded-For, host headers, and now HTTPS/TLS details.
 
 --------
 Features
@@ -32,4 +32,4 @@ The A10 Demo Container Web App can be downloaded from Docker Hub by following th
 -------------
 Documentation
 -------------
-Please follow the link to get a detailed description how to use the A10 Demo Container Web App: https://a10-demo-container-web-app.readthedocs.io/en/latest/⁠
+Please follow the link to get a detailed description how to use the A10 Demo Container Web App: https://a10-demo-container-web-app.readthedocs.io
