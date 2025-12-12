@@ -27,7 +27,7 @@ Features
 -----------------
 Where to Download?
 -----------------
-The A10 Demo Container Web App can be downloaded from Docker Hub by following the link: <https://hub.docker.com/repository/docker/gwolfis/a10-aadc-demo>
+The A10 Demo Container Web App can be pulled from Docker Hub by following the link: <https://hub.docker.com/r/gwolfis/a10-aadc-demo>
 
 -------------
 Documentation
